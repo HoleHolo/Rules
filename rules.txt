@@ -1,7 +1,7 @@
 ! Title: 元素拦截规则
 ! Description: 请搭配其他规则使用。该规则仅仅是为了优化一些网站的体验而编写。
 quark.sm.cn##.btn-qr-code,header#header,.top-bar,FOOTER#footer,#navs
-m.baidu.com##.banners,DIV#head-queryarea.page-head-queryarea,DIV.se-recommend-word-list,DIV.c-result.result[srcid='37089'],ARTICLE.c-container._3O3kz._2y2S1[data-module='xcxMulti'],DIV.c-result.result[srcid='xcx_multi'],DIV.voice.call,DIV#ts-image-uploader-icon,I.title-icon,A.wa-channel-back,DIV.return-link,DIV.c-font-small,DIV.news-list-wrapper,DIV.blank-frame,DIV#bottom,DIV.navs-bottom-bar,A.index-banner.square-banner-bgicon
+m.baidu.com##.banners,DIV#head-queryarea.page-head-queryarea,DIV.se-recommend-word-list,DIV.c-result.result[srcid='37089'],ARTICLE.c-container._3O3kz._2y2S1[data-module='xcxMulti'],DIV.c-result.result[srcid='xcx_multi'],DIV.voice.call,DIV#ts-image-uploader-icon,I.title-icon,A.wa-channel-back,DIV.return-link,DIV.c-font-small,DIV.news-list-wrapper,DIV.blank-frame,DIV#bottom,DIV.navs-bottom-bar,A.index-banner.square-banner-bgicon,DIV#bottom-text-wrapper
 club.huawei.com##.sp-bannimg,UL.gm-toplist.sp-toplist.spToplist.sptadmag.fLPgspToplist,DIV.sp-loadmore
 m.bilibili.com##DIV.open-app-btn,DIV.v-switcher.m-video-bottom-tab.v-switcher--fluid,DIV.m-footer,DIV.player-mobile-ending-panel-recommend,DIV.follow-btn,DIV.list,DIV.tabs,A.face,DIV.m-video-season-new,P.m-home-no-more,WX-OPEN-LAUNCH-APP.wx-open-app-btn,DIV.ep-info-pre.clearfix,DIV.recom-wrapper,DIV.fe-ui-open-app-btn,DIV.b-copyright,A.search
 zybang.com##A.askTeacher

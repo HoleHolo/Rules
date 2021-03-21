@@ -11,7 +11,7 @@ m.baidu.com##.banners,DIV#head-queryarea.page-head-queryarea,DIV.se-recommend-wo
 baike.baidu.com##DIV#J-super-layer-promote,IMG.close-image,DIV.BK-after-content-wrapper,DIV#J-tashuo-button-fixed,IMG.img-icon_spark,DIV.footer-wrapper,DIV.copyright-footer
 quark.sm.cn##.btn-qr-code,header#header,.top-bar,FOOTER#footer,#navs
 club.huawei.com##.sp-bannimg,UL.gm-toplist.sp-toplist.spToplist.sptadmag.fLPgspToplist,DIV.sp-loadmore
-m.bilibili.com##DIV.open-app-btn,DIV.v-switcher.m-video-bottom-tab.v-switcher--fluid,DIV.m-footer,DIV.player-mobile-ending-panel-recommend,DIV.follow-btn,DIV.list,DIV.tabs,A.face,DIV.m-video-season-new,P.m-home-no-more,WX-OPEN-LAUNCH-APP.wx-open-app-btn,DIV.ep-info-pre.clearfix,DIV.recom-wrapper,DIV.fe-ui-open-app-btn,DIV.b-copyright,DIV.see-you-app
+m.bilibili.com##DIV.open-app-btn,DIV.v-switcher.m-video-bottom-tab.v-switcher--fluid,DIV.m-footer,DIV.player-mobile-ending-panel-recommend,DIV.follow-btn,DIV.list,DIV.tabs,DIV.m-video-season-new,P.m-home-no-more,WX-OPEN-LAUNCH-APP.wx-open-app-btn,DIV.ep-info-pre.clearfix,DIV.recom-wrapper,DIV.fe-ui-open-app-btn,DIV.b-copyright,DIV.see-you-app,DIV.right
 live.bilibili.com##A.bili-btn.basic.f-right.pink,DIV.bili-app-link,DIV.open-app-btn.bottom-open-app,SPAN.bilibili-lmp-goto-link,FOOTER#bili-footer,.swipe-wrap,.nav-item,NAV.top-nav-ctnr
 zybang.com##A.askTeacher
 live.bilibili.com##A.bili-btn.basic.f-right.pink,DIV.bili-app-link,DIV.open-app-btn.bottom-open-app,SPAN.bilibili-lmp-goto-link,FOOTER#bili-footer,.swipe-wrap,.nav-item,NAV.top-nav-ctnr

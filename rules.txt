@@ -19,6 +19,7 @@ www.csdn.net##A.feed-Sign-span,DIV.m_toolbar_left_app_btn,DIV.m_toolbar_left_app
 blog.csdn.net##SPAN.feed-Sign-span,P.m_toolbar_left_copyright,DIV.m_toolbar_left_app_btn,DL.container-fluid.container-fluid-flex.container-blog,DIV.view_comment_box,P#btn_open_app_prompt_item,DL.container-fluid.container-fluid-flex.container-course,DL.container-fluid.container-fluid-flex.container-download
 bbs.csdn.net##A.btn_app_link
 download.csdn.net##A.btn-block-link.big.btn-bg-red
+www.apple.com.cn##DIV.ribbon-shop-online,DIV.ribbon-content-wrapper
 
 
 ! -- Cookie 弹框部分

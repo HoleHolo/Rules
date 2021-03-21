@@ -14,7 +14,7 @@ quark.sm.cn##.btn-qr-code,header#header,.top-bar,FOOTER#footer,#navs
 club.huawei.com##.sp-bannimg,UL.gm-toplist.sp-toplist.spToplist.sptadmag.fLPgspToplist,DIV.sp-loadmore,A.vtOpenApp.comment
 m.bilibili.com##DIV.open-app-btn,DIV.v-switcher.m-video-bottom-tab.v-switcher--fluid,DIV.m-footer,DIV.player-mobile-ending-panel-recommend,DIV.follow-btn,DIV.list,DIV.tabs,DIV.m-video-season-new,P.m-home-no-more,WX-OPEN-LAUNCH-APP.wx-open-app-btn,DIV.ep-info-pre.clearfix,DIV.recom-wrapper,DIV.fe-ui-open-app-btn,DIV.b-copyright,DIV.see-you-app,DIV.right
 live.bilibili.com##A.bili-btn.basic.f-right.pink,DIV.bili-app-link,DIV.open-app-btn.bottom-open-app,SPAN.bilibili-lmp-goto-link,FOOTER#bili-footer,.swipe-wrap,.nav-item,NAV.top-nav-ctnr
-zybang.com##A.askTeacher
+zybang.com##A.askTeacher,DIV.qb-wgt_footer,DIV.question-below-text,A.navigationBar-below-banner,A.top-banner
 www.csdn.net##A.feed-Sign-span,DIV.m_toolbar_left_app_btn,DIV.m_toolbar_left_app_btn,P.m_toolbar_left_copyright
 blog.csdn.net##SPAN.feed-Sign-span,P.m_toolbar_left_copyright,DIV.m_toolbar_left_app_btn,DL.container-fluid.container-fluid-flex.container-blog,DIV.view_comment_box,P#btn_open_app_prompt_item,DL.container-fluid.container-fluid-flex.container-course,DL.container-fluid.container-fluid-flex.container-download
 bbs.csdn.net##A.btn_app_link

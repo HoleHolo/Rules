@@ -27,4 +27,5 @@ id1.cloud.huawei.com##DIV#bannerBox
 
 ! -- 激进型部分
 ! -- m.baidu.com##DIV.callicon-wrap,DIV.c-container.na-ec-item,DIV#relativewords,DIV.c-result.result.c-clk-recommend
+m.baidu.com##I#ns-square-point
 club.huawei.com##DIV.openApp,DIV.goBack

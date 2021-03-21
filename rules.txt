@@ -20,6 +20,7 @@ blog.csdn.net##SPAN.feed-Sign-span,P.m_toolbar_left_copyright,DIV.m_toolbar_left
 bbs.csdn.net##A.btn_app_link
 download.csdn.net##A.btn-block-link.big.btn-bg-red
 www.apple.com.cn##DIV.ribbon-shop-online,DIV.ribbon-content-wrapper
+www.zhihu.com##DIV.MobileAppHeader-actions,BUTTON.Button.Button--primary.Button--blue,BUTTON.OpenInAppButton.OpenInApp.is-shown,DIV.WeiboAd-wrap,BUTTON.OpenInAppButton.is-shown
 
 
 ! -- Cookie 弹框部分

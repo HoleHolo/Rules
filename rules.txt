@@ -6,7 +6,7 @@
 
 ! -- 请搭配简单搜索 UA 使用，如：
 ! -- Mozilla/5.0 (Linux; Android 10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile Safari/537.36/537.36 T7/10.3 SearchCraft/2.6.2 (Baidu; P1 7.0)
-m.baidu.com##.banners,DIV#head-queryarea.page-head-queryarea,DIV.se-recommend-word-list,DIV.c-result.result[srcid='37089'],ARTICLE.c-container._3O3kz._2y2S1[data-module='xcxMulti'],DIV.c-result.result[srcid='xcx_multi'],DIV.voice.call,DIV#ts-image-uploader-icon,DIV.return-link,DIV.c-font-small,DIV.news-list-wrapper,DIV.blank-frame,DIV#bottom,DIV.navs-bottom-bar,A.index-banner.square-banner-bgicon,DIV#bottom-text-wrapper
+m.baidu.com##.banners,DIV#head-queryarea.page-head-queryarea,DIV.se-recommend-word-list,DIV.c-result.result[srcid='37089'],ARTICLE.c-container._3O3kz._2y2S1[data-module='xcxMulti'],DIV.c-result.result[srcid='xcx_multi'],DIV.voice.call,DIV#ts-image-uploader-icon,DIV.return-link,DIV.c-font-small,DIV.news-list-wrapper,DIV.blank-frame,DIV#bottom,DIV.navs-bottom-bar,A.index-banner.square-banner-bgicon,DIV#bottom-text-wrapper,DIV.readme,LI.arrow-btn.b_agreement.line_b
 
 baike.baidu.com##DIV#J-super-layer-promote,IMG.close-image,DIV.BK-after-content-wrapper,DIV#J-tashuo-button-fixed,IMG.img-icon_spark,DIV.footer-wrapper,DIV.copyright-footer
 quark.sm.cn##.btn-qr-code,header#header,.top-bar,FOOTER#footer,#navs
@@ -29,4 +29,5 @@ id1.cloud.huawei.com##DIV#bannerBox
 ! -- 激进型部分
 ! -- m.baidu.com##DIV.callicon-wrap,DIV.c-container.na-ec-item,DIV#relativewords,DIV.c-result.result.c-clk-recommend
 m.baidu.com##I#ns-square-point,SPAN.hot-item-newicon,I.title-icon,A.wa-channel-back
+ufosdk.baidu.com##DIV#returnBtn
 club.huawei.com##DIV.openApp,DIV.goBack

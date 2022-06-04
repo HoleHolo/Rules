@@ -71,3 +71,6 @@ hanyu.baidu.com##.user-avator
 hanyu.baidu.com##.hanyu-download-wrap
 hanyu.baidu.com##.word-footer
 hanyu.baidu.com##.fengchao-el
+
+! QQ 邮箱下载提示条 
+wap.mail.qq.com##.download_container

@@ -96,3 +96,4 @@ baike.baidu.com##EM.J-edit-icon.layout-icons.layout-icons_new-pen
 baike.baidu.com##DIV.BK-after-content-wrapper,DIV#J-catalog-tip,EM.layout-icons.layout-icons_hand
 baike.baidu.com##a[onclick="page.Mixedor.mixedOpen(this,0)"]
 baike.baidu.com##DIV#J-tashuo-button-fixed
+baike.baidu.com##DIV#J_yitiao_container

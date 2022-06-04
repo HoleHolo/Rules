@@ -1,33 +1,73 @@
-! Title: 元素拦截规则
+! Title: 简单拦截规则
 ! Description: 仅适用于手机端页面，请搭配其他规则使用。该规则仅仅是为了优化一些网站的体验而编写。
 
+! 哔哩哔哩
+|https://s1.hdslb.com/bfs/static/jinkela/mstation-h5/assets/navOpenApp.png$domain=m.bilibili.com,image
+m.bilibili.com##.home-float-openapp.launch-app-btn
+m.bilibili.com##.m-nav-openapp.launch-app-btn
+|https://s1.hdslb.com/bfs/static/jinkela/mstation-h5/assets/btn-open-app.png$domain=m.bilibili.com,image
+m.bilibili.com##.m-video2-main-img
+m.bilibili.com##.m-float-openapp.launch-app-btn
+m.bilibili.com##.mplayer-control-btn-speed.mplayer-control-btn-callapp.mplayer-control-btn
+m.bilibili.com##.mplayer-ending-panel-recommend
+m.bilibili.com##div[class="mplayer-widescreen-callapp"]
+m.bilibili.com##div[class="mplayer-control-btn mplayer-btn-comment-middle mplayer-btn-comment-full"]
+m.bilibili.com##div[class="mplayer-control-btn mplayer-control-btn-callapp mplayer-control-btn-quality"]
+|https://s1.hdslb.com/bfs/static/jinkela/long/images/login.png@48w_48h_1c.png$domain=m.bilibili.com,image
+m.bilibili.com##.right > .face
+m.bilibili.com##.m-space-float-openapp.launch-app-btn
+m.bilibili.com##.m-footer
 
-! -- 主体部分
+! 百度主页
+|https://b.bdstatic.com/searchbox/image/cmsuploader/*$domain=www.baidu.com,image
+m.baidu.com###header > div > div
+m.baidu.com##.his-no-rec-p.his-no-rec
+m.baidu.com##.con-inner-left > .callicon-wrap
+m.baidu.com##.has-background-userinfo-bubble
+m.baidu.com###personal-center
+m.baidu.com##.blank-frame
+m.baidu.com###bottom
 
-! -- 请搭配简单搜索 UA 使用，如：
-! -- Mozilla/5.0 (Linux; Android 10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile Safari/537.36/537.36 T7/10.3 SearchCraft/2.6.2 (Baidu; P1 7.0)
-m.baidu.com##.banners,DIV#head-queryarea.page-head-queryarea,DIV.se-recommend-word-list,DIV.c-result.result[srcid='37089'],ARTICLE.c-container._3O3kz._2y2S1[data-module='xcxMulti'],DIV.c-result.result[srcid='xcx_multi'],DIV.voice.call,DIV#ts-image-uploader-icon,DIV.return-link,DIV.c-font-small,DIV.news-list-wrapper,DIV.blank-frame,DIV#bottom,DIV.navs-bottom-bar,A.index-banner.square-banner-bgicon,DIV#bottom-text-wrapper,DIV.readme,LI.arrow-btn.b_agreement.line_b,SPAN.c-color-gray
+! 百度搜索页面
+m.baidu.com##div[style="display: block;"]
+m.baidu.com##a.se-long-tabitem.se-tabitem:nth-of-type(3)
+m.baidu.com##a.se-tabitem:nth-of-type(11)
+m.baidu.com##a.se-long-tabitem.se-tabitem:nth-of-type(13)
+m.baidu.com##a.se-tabitem:nth-of-type(10)
+m.baidu.com##a.se-tabitem:nth-of-type(12)
+m.baidu.com##a.se-tabitem:nth-of-type(14)
+m.baidu.com##a.se-tabitem:nth-of-type(16)
+m.baidu.com##a.se-tabitem:nth-of-type(17)
+m.baidu.com##a.se-tabitem:nth-of-type(15)
+m.baidu.com##a.se-tabitem:nth-of-type(20)
+m.baidu.com##.se-head-logo
+m.baidu.com##i[class="c-icon c-gap-right icon-logo"]
 
-baike.baidu.com##DIV#J-super-layer-promote,IMG.close-image,DIV.BK-after-content-wrapper,DIV#J-tashuo-button-fixed,IMG.img-icon_spark,DIV.footer-wrapper,DIV.copyright-footer
-hanyu.baidu.com##DIV#J_Suspens,DIV#appEntry,DIV.c-container.card.detail-download-tip,DIV#download-bth,SECTION#home_footer
-quark.sm.cn##.btn-qr-code,header#header,.top-bar,FOOTER#footer,#navs
-club.huawei.com##.sp-bannimg,UL.gm-toplist.sp-toplist.spToplist.sptadmag.fLPgspToplist,DIV.sp-loadmore,A.vtOpenApp.comment
-m.bilibili.com##DIV.open-app-btn,DIV.v-switcher.m-video-bottom-tab.v-switcher--fluid,DIV.m-footer,DIV.player-mobile-ending-panel-recommend,DIV.follow-btn,DIV.list,DIV.tabs,DIV.m-video-season-new,P.m-home-no-more,WX-OPEN-LAUNCH-APP.wx-open-app-btn,DIV.ep-info-pre.clearfix,DIV.recom-wrapper,DIV.fe-ui-open-app-btn,DIV.b-copyright,DIV.see-you-app,DIV.right
-live.bilibili.com##A.bili-btn.basic.f-right.pink,DIV.bili-app-link,DIV.open-app-btn.bottom-open-app,SPAN.bilibili-lmp-goto-link,FOOTER#bili-footer,.swipe-wrap,.nav-item,NAV.top-nav-ctnr
-zybang.com##A.askTeacher,DIV.qb-wgt_footer,DIV.question-below-text,A.navigationBar-below-banner,A.top-banner
-www.csdn.net##A.feed-Sign-span,DIV.m_toolbar_left_app_btn,DIV.m_toolbar_left_app_btn,P.m_toolbar_left_copyright
-blog.csdn.net##SPAN.feed-Sign-span,P.m_toolbar_left_copyright,DIV.m_toolbar_left_app_btn,DL.container-fluid.container-fluid-flex.container-blog,DIV.view_comment_box,P#btn_open_app_prompt_item,DL.container-fluid.container-fluid-flex.container-course,DL.container-fluid.container-fluid-flex.container-download
-bbs.csdn.net##A.btn_app_link
-download.csdn.net##A.btn-block-link.big.btn-bg-red
-www.apple.com.cn##DIV.ribbon-shop-online,DIV.ribbon-content-wrapper
-www.zhihu.com##DIV.MobileAppHeader-actions,BUTTON.Button.Button--primary.Button--blue,BUTTON.OpenInAppButton.OpenInApp.is-shown,DIV.WeiboAd-wrap,BUTTON.OpenInAppButton.is-shown
+! 底部浮窗及信息
+m.baidu.com###page-copyright
 
+! 百度搜索结果类型过滤
+m.baidu.com##div[srcid="app_mobile_simple_safety"]
+m.baidu.com##div[srcid="xcx_multi"]
+m.baidu.com##div[srcid="sigma_celebrity_rela"]
 
-! -- Cookie 弹框部分
-id1.cloud.huawei.com##DIV#bannerBox
+! 百度搜索页面顶部
+m.baidu.com###page-hd
 
-
-! -- 激进型部分
-m.baidu.com##I#ns-square-point,SPAN.hot-item-newicon,I.title-icon,A.wa-channel-back
-ufosdk.baidu.com##DIV#returnBtn
-club.huawei.com##DIV.openApp,DIV.goBack
+! 百度汉语
+hanyu.baidu.com##.app-promotion-icon
+hanyu.baidu.com##.user-center-bar
+hanyu.baidu.com###home_footer
+hanyu.baidu.com##.float-model
+hanyu.baidu.com##.promotion-top-el
+hanyu.baidu.com###J_Suspens
+hanyu.baidu.com###download-wrapper
+hanyu.baidu.com##.c-row-tile.c-result
+hanyu.baidu.com##.fengchao-els.card.c-container
+hanyu.baidu.com##div.icon-font-header-right:nth-of-type(3)
+hanyu.baidu.com##.banner-img
+hanyu.baidu.com##.hanyu-app-wrap
+hanyu.baidu.com##.user-avator
+hanyu.baidu.com##.hanyu-download-wrap
+hanyu.baidu.com##.word-footer
+hanyu.baidu.com##.fengchao-el

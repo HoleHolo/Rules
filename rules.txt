@@ -54,6 +54,12 @@ m.baidu.com##div[srcid="sigma_celebrity_rela"]
 ! 百度搜索页面顶部
 m.baidu.com###page-hd
 
+! 简单搜索顶部搜索字词及底栏
+m.baidu.com##DIV#head-queryarea,DIV.return-link,DIV.c-font-small
+
+! 百度小程序提示
+|https://mbd.baidu.com/ma/tips?
+
 ! 百度汉语
 hanyu.baidu.com##.app-promotion-icon
 hanyu.baidu.com##.user-center-bar
@@ -74,3 +80,19 @@ hanyu.baidu.com##.fengchao-el
 
 ! QQ 邮箱下载提示条 
 wap.mail.qq.com##.download_container
+
+! 有道词典
+www.youdao.com##DIV.license,UL.product-list.product_container,DIV.top-download
+
+! 蓝奏云
+lanzou*.com##DIV.d1,DIV.pc.bgimg
+
+! 百度百科
+baike.baidu.com##SPAN.tool-right-btn.J-lemma-edit.J-active
+baike.baidu.com##DIV.footer-wrapper
+||baikebcs.bdimg.com/adpic
+baike.baidu.com##EM#J-editentrance-icon
+baike.baidu.com##EM.J-edit-icon.layout-icons.layout-icons_new-pen
+baike.baidu.com##DIV.BK-after-content-wrapper,DIV#J-catalog-tip,EM.layout-icons.layout-icons_hand
+baike.baidu.com##a[onclick="page.Mixedor.mixedOpen(this,0)"]
+baike.baidu.com##DIV#J-tashuo-button-fixed

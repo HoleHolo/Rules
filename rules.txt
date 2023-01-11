@@ -2,21 +2,11 @@
 ! Description: 仅适用于手机端页面，请搭配其他规则使用。该规则仅仅是为了优化一些网站的体验而编写。
 
 ! 哔哩哔哩
-|https://s1.hdslb.com/bfs/static/jinkela/mstation-h5/assets/navOpenApp.png$domain=m.bilibili.com,image
-m.bilibili.com##.home-float-openapp.launch-app-btn
 m.bilibili.com##.m-nav-openapp.launch-app-btn
-|https://s1.hdslb.com/bfs/static/jinkela/mstation-h5/assets/btn-open-app.png$domain=m.bilibili.com,image
-m.bilibili.com##.m-video2-main-img
-m.bilibili.com##.m-float-openapp.launch-app-btn
-m.bilibili.com##.mplayer-control-btn-speed.mplayer-control-btn-callapp.mplayer-control-btn
-m.bilibili.com##.mplayer-ending-panel-recommend
-m.bilibili.com##div[class="mplayer-widescreen-callapp"]
-m.bilibili.com##div[class="mplayer-control-btn mplayer-btn-comment-middle mplayer-btn-comment-full"]
-m.bilibili.com##div[class="mplayer-control-btn mplayer-control-btn-callapp mplayer-control-btn-quality"]
-|https://s1.hdslb.com/bfs/static/jinkela/long/images/login.png@48w_48h_1c.png$domain=m.bilibili.com,image
-m.bilibili.com##.right > .face
-m.bilibili.com##.m-space-float-openapp.launch-app-btn
-m.bilibili.com##.m-footer
+m.bilibili.com##.home-float-openapp.launch-app-btn
+m.bilibili.com##.natural-margin.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
+m.bilibili.com##.fixed-module-margin.m-video-related
+m.bilibili.com##.natural-margin-2.m-video-main-launchapp.launch-app-btn
 
 ! 百度主页
 |https://b.bdstatic.com/searchbox/image/cmsuploader/*$domain=www.baidu.com,image

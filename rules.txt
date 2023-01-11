@@ -171,3 +171,11 @@ cn.bing.com##.toolTip.id_button
 cn.bing.com###textDeeplinksWidgetContainer
 cn.bing.com##.b_footer
 cn.bing.com##.ev_talkbox_wrapper
+cn.bing.com##.ev_talkbox_wrapper
+cn.bing.com##bing-homepage-feed
+cn.bing.com##.show.hp_trivia_outer
+cn.bing.com###id_qrcode_popup_positioner
+cn.bing.com##.active.tooltip
+cn.bing.com##div.hb_sect_container:nth-of-type(2)
+cn.bing.com##.icon.mic_cont
+cn.bing.com###id_h > .tooltip

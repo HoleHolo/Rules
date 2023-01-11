@@ -1,7 +1,9 @@
 ! Title: 简单拦截规则
-! Description: 仅适用于手机端页面，请搭配其他规则使用。该规则仅仅是为了优化一些网站的体验而编写。
+! Description: 一些简单的、激进的元素或网址拦截规则。
 
-! 哔哩哔哩
+! 手机端规则
+
+! 哔哩哔哩（2023 01 11 更新）
 m.bilibili.com##.m-nav-openapp.launch-app-btn
 m.bilibili.com##.home-float-openapp.launch-app-btn
 m.bilibili.com##.natural-margin.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
@@ -104,3 +106,68 @@ www.wuzhuiso.com##DIV#msocomBottomBanner
 
 ! 百度试验性规则
 m.baidu.com##DIV.func-btn-bg
+
+! --------------------
+! PC 端规则（2023 01 11 更新）
+
+! 好分数
+www.haofenshu.com##.layout-footer
+www.haofenshu.com##li.menu-nav-item-header:nth-of-type(5)
+www.haofenshu.com##li.menu-nav-item:nth-of-type(6)
+www.haofenshu.com##li.menu-nav-item:nth-of-type(7)
+www.haofenshu.com##.header-menu
+www.haofenshu.com##li.menu-nav-item-header:nth-of-type(12)
+www.haofenshu.com##li.menu-nav-item:nth-of-type(13)
+www.haofenshu.com##li.menu-nav-item:nth-of-type(14)
+www.haofenshu.com##li.menu-nav-item:nth-of-type(10)
+www.haofenshu.com##li.menu-nav-item-header:nth-of-type(9)
+www.haofenshu.com##li.menu-nav-item-header:nth-of-type(6)
+www.haofenshu.com##li.menu-nav-item:nth-of-type(4)
+www.haofenshu.com##.el-carousel__container
+www.haofenshu.com##.icon-no-member
+www.haofenshu.com##.qr-code
+www.haofenshu.com##.no-exam > p
+www.haofenshu.com##.layout-container > div > div:nth-of-type(3) > div
+
+! 菜鸟教程
+www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(2)
+www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
+www.runoob.com##.fixed-btn
+www.runoob.com##.navigation.container
+www.runoob.com##.right-column.last.fivecol
+www.runoob.com##.mar-t50
+
+! Edge 扩展页面
+microsoftedge.microsoft.com###banner
+
+! W3CSchool 教程
+www.w3cschool.cn###rfbanner
+www.w3cschool.cn##.widget-body
+www.w3cschool.cn###pro-footer
+www.w3cschool.cn##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
+www.w3cschool.cn##.side-widget
+www.w3cschool.cn##.mobile.fl
+www.w3cschool.cn##.header-menu-vip
+www.w3cschool.cn###evaluate-box
+
+! 哔哩哔哩
+www.bilibili.com##.adblock-tips
+www.bilibili.com##.right-entry--vip.right-entry__outside
+www.bilibili.com##.left-entry
+www.bilibili.com##.palette-button-wrap
+www.bilibili.com##.float-nav-exp
+www.bilibili.com##.fixed-nav
+www.bilibili.com##.act-end.activity-m-v1
+www.bilibili.com##.reply-notice
+www.bilibili.com##.bpx-player-dm-hint
+
+! CSDN
+blog.csdn.net##.csdn-toolbar-fl.toolbar-btn-vip.toolbar-btn
+blog.csdn.net##.csdn-side-toolbar
+
+! Bing
+cn.bing.com##.ev_talkbox_wrapper_min
+cn.bing.com##.toolTip.id_button
+cn.bing.com###textDeeplinksWidgetContainer
+cn.bing.com##.b_footer
+cn.bing.com##.ev_talkbox_wrapper
